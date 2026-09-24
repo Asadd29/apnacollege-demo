@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-author - Asad Ali
+author - Asad Ali (Apna College)
